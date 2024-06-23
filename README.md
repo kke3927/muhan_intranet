@@ -16,9 +16,12 @@
 - <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"><br>
   -  Tomcat 9.0.88
 
-## 팀 소개
-🙋‍♀️ 강경은 - BE. <br/>
-👩‍🦱 김민희 <br/>
-👩‍🦱 구혜민 <br/>
-👩‍🦱박서영 <br/>
-👩‍🦱 이영규 <br/>
+## 🏃 팀 소개
+🙋‍♀️ 강경은 - **BE.** 공지사항, 근태관리 100%, 회의실 예약 70% <br/>
+👩‍🦱 김민희 - **팀장 & BE.** 개인일정관리 100%, 회의실 예약 30%<br/>
+👩‍🦱 구혜민 - **BE.** 로그인, 마이페이지 100%<br/>
+👩‍🦱박서영 - **BE.** 사진 게시판, 메인 페이지 100% <br/>
+👩‍🦱 이영규 - **BE.** 결재상신 100% <br/>
+
+## 🖥️ 화면 구성
+[alt 공지사항 리스트]()
