@@ -41,5 +41,6 @@
 2. 이용자가 시간대를 선택한 후 '확인' 버튼을 클릭하면 confirm 창이 표시되고, 한 번 더 확인을 클릭하면 예약 정보가 DB 테이블에 insert 함. <br><br>![alt 회의실 예약](/img/reservation2.png)
 3. 다른 이용자는 회의실 예약 정보가 등록된 시간대 테이블을 볼 수 없기 때문에, 중복 예약이 불가능함. <br><br> ![alt 회의실 예약](/img/reservation3.png)
 
-## 기타 세부사항
-[링크 사내 인트라넷 ppt] (/무한상사.pptx)
+## 🖇️ 기타 세부사항
+😺 👇**다른 기능들 및 세부 사항을 알아보고 싶으시다면 아래의 링크(프로젝트 ppt pdf 파일)를 클릭해주세요**  <br>
+[/무한상사.pptx](https://github.com/kke3927/muhan_intranet/blob/main/%EB%AC%B4%ED%95%9C%EC%83%81%EC%82%AC.pptx.pdf)
